@@ -1,7 +1,3 @@
-Here’s a clean and detailed `README.md` you can use for your **AI Agent for Digital Financial Literacy** project:
-
----
-
 # 💰 AI Agent for Digital Financial Literacy (Problem Statement No.7)
 
 An AI-powered multilingual assistant built using **IBM Cloud Lite**, **IBM Watson Discovery**, and **IBM Granite** (Watsonx), designed to educate users on digital financial tools like **UPI**, **interest rates**, **personal finance**, **digital scams**, and more.
@@ -124,6 +120,3 @@ python app.py
 * IBM Cloud Lite APIs
 * Open-source AI community
 
----
-
-Let me know if you'd like a version of this README exported as a `PDF`, or a link preview setup for GitHub.
